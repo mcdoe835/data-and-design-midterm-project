@@ -1,11 +1,11 @@
-Exploratory Data Analysis: The Future of U.S. Data Center Locations (2023-2035)
+Exploratory Data Analysis: The Future of U.S. Data Center Locations 
 
 As of early 2026, the construction of new data centers (in $ being spent) has surppassed the construction of new office space for the first time in history. This represents a shift from traditional human labour to leveraging big data for artificial intelligence, cloud computing, web services, ect... Building these facilities requires careful consideration of tradeoffs involving things like real estate costs, electricity demand and water consumption. 
 
 My chosed source for this project is posted to the U.S. Department of Energy
 Office of Scientific and Technical Information website: https://www.osti.gov/biblio/2571680
 
-As listed in the description "IM3 Projected US Data Center Locations This dataset contains model projections of new data center facilities in the contiguous United States (CONUS) through 2035 using the CERF – Data Centers model" The goal of my project is to understand how different projected data such as the one used for my analysis may influence the decision-making of those building these data centers in the coming decade. 
+As listed in the description "IM3 Projected US Data Center Locations This dataset contains model projections of new data center facilities in the contiguous United States (CONUS) through 2035 using the CERF – Data Centers model" The goal of my project is to understand how data that makes projections (such as the one used for my analysis) may influence the decision-making of those building these data centers in the coming decade. 
 
 I combined their various datasets into one .csv file and put that into a pandas dataframe. The concatenated dataset contains 16,645 rows and 15 features. The key features I set out to focus on were:
 
