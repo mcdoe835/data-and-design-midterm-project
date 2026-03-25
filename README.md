@@ -30,4 +30,4 @@ Plot #3
 Box Plot for the projected finantial costs of different cooling methods (Mechanical vs Water cooling). The plot has four different groups: only water cooling, only mechanical cooling, half & half, and mostly mechanical partly water. From looking at this chart, I observed that the purely water cooled data centers have the potential to vary the most in terms of cost, they had the widest range and the most outliers. Furthermore, the half water, half mechanically cooled data centers appear to fall within the tightest, and in my opinion most reasonable price range of the four groups. Finally, the mostly mechanical partly water group seemed the most expensive.
 
 
-All the code used to generate these plots is available in the accompanying notebook. 
+All the code used to generate these plots is available in the accompanying Jupyter Notebook. 
