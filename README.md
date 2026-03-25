@@ -1,6 +1,6 @@
 Exploratory Data Analysis: The Future of U.S. Data Center Locations 
 
-As of early 2026, the construction of new data centers (in $ being spent) has surppassed the construction of new office space for the first time in history. This represents a shift from traditional human labour to leveraging big data for artificial intelligence, cloud computing, web services, ect... Building these facilities requires careful consideration of tradeoffs involving things like real estate costs, electricity demand and water consumption. 
+As of early 2026, the construction of new data centers (measured in total dollars spent) has surppassed the construction of new office space for the first time in history. This represents a shift from traditional human labour to leveraging big data for artificial intelligence, cloud computing, web services, ect... Building these facilities requires careful consideration of tradeoffs involving things like real estate costs, electricity demand and water consumption. 
 
 My chosed source for this project is posted to the U.S. Department of Energy
 Office of Scientific and Technical Information website: https://www.osti.gov/biblio/2571680
